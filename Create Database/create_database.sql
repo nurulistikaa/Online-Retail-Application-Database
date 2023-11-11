@@ -1,1 +1,1 @@
-CREATE DATABASE `online-retail`;
+CREATE DATABASE onlineretail;

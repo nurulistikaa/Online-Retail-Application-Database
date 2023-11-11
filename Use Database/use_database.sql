@@ -1,0 +1,2 @@
+-- Menggunakan Database
+USE onlineretail;
